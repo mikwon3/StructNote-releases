@@ -9,7 +9,7 @@ StructNote 는 철근콘크리트·재료역학 교육용 계산 노트 앱입�
 
 | 운영체제 | 파일 |
 |---|---|
-| macOS (Apple Silicon·Intel) | `StructNote-<판>.dmg` |
+| macOS (Apple Silicon, M1 이후) | `StructNote-<판>.dmg` |
 | Windows 10·11 (64비트) | `StructNote-<판>-amd64-installer.exe` |
 
 설치한 뒤에는 앱이 새 판을 스스로 확인합니다(도움말 → 업데이트 확인).
